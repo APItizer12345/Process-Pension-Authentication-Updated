@@ -1,0 +1,153 @@
+D:\Cognizant\Mfrp\ProcessPension\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Cognizant\Mfrp\ProcessPension\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Cognizant\Mfrp\ProcessPension\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Cognizant\Mfrp\ProcessPension\bin\Debug\netcoreapp3.1\ProcessPension.deps.json
+D:\Cognizant\Mfrp\ProcessPension\bin\Debug\netcoreapp3.1\ProcessPension.runtimeconfig.json
+D:\Cognizant\Mfrp\ProcessPension\bin\Debug\netcoreapp3.1\ProcessPension.runtimeconfig.dev.json
+D:\Cognizant\Mfrp\ProcessPension\bin\Debug\netcoreapp3.1\ProcessPension.dll
+D:\Cognizant\Mfrp\ProcessPension\obj\Debug\netcoreapp3.1\ProcessPension.csprojAssemblyReference.cache
+D:\Cognizant\Mfrp\ProcessPension\obj\Debug\netcoreapp3.1\ProcessPension.AssemblyInfoInputs.cache
+D:\Cognizant\Mfrp\ProcessPension\obj\Debug\netcoreapp3.1\ProcessPension.AssemblyInfo.cs
+D:\Cognizant\Mfrp\ProcessPension\obj\Debug\netcoreapp3.1\ProcessPension.RazorTargetAssemblyInfo.cache
+D:\Cognizant\Mfrp\ProcessPension\obj\Debug\netcoreapp3.1\staticwebassets\ProcessPension.StaticWebAssets.Manifest.cache
+D:\Cognizant\Mfrp\ProcessPension\obj\Debug\netcoreapp3.1\staticwebassets\ProcessPension.StaticWebAssets.xml
+D:\Cognizant\Mfrp\ProcessPension\obj\Debug\netcoreapp3.1\ProcessPension.genruntimeconfig.cache
+D:\Cognizant\Mfrp\ProcessPension\bin\Debug\netcoreapp3.1\ProcessPension.exe
+D:\Cognizant\Mfrp\ProcessPension\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Cognizant\Mfrp\ProcessPension\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Cognizant\Mfrp\ProcessPension\obj\Debug\netcoreapp3.1\ProcessPension.csproj.CopyComplete
+D:\Cognizant\Mfrp\ProcessPension\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Cognizant\Mfrp\ProcessPension\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Cognizant\Mfrp\ProcessPension\bin\Debug\netcoreapp3.1\ProcessPension.pdb
+D:\Cognizant\Mfrp\ProcessPension\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Cognizant\Mfrp\ProcessPension\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Cognizant\Mfrp\ProcessPension\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Cognizant\Mfrp\ProcessPension\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Cognizant\Mfrp\ProcessPension\obj\Debug\netcoreapp3.1\ProcessPension.csproj.CoreCompileInputs.cache
+D:\Cognizant\Mfrp\ProcessPension\obj\Debug\netcoreapp3.1\ProcessPension.MvcApplicationPartsAssemblyInfo.cache
+D:\Cognizant\Mfrp\ProcessPension\obj\Debug\netcoreapp3.1\ProcessPension.dll
+D:\Cognizant\Mfrp\ProcessPension\obj\Debug\netcoreapp3.1\ProcessPension.pdb
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\ProcessPension.exe
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\ProcessPension.deps.json
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\ProcessPension.runtimeconfig.json
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\ProcessPension.runtimeconfig.dev.json
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\ProcessPension.dll
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\ProcessPension.pdb
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\obj\Debug\netcoreapp3.1\ProcessPension.csprojAssemblyReference.cache
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\obj\Debug\netcoreapp3.1\ProcessPension.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\obj\Debug\netcoreapp3.1\ProcessPension.AssemblyInfo.cs
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\obj\Debug\netcoreapp3.1\ProcessPension.RazorTargetAssemblyInfo.cache
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\obj\Debug\netcoreapp3.1\ProcessPension.csproj.CopyComplete
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\obj\Debug\netcoreapp3.1\staticwebassets\ProcessPension.StaticWebAssets.Manifest.cache
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\obj\Debug\netcoreapp3.1\staticwebassets\ProcessPension.StaticWebAssets.xml
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\obj\Debug\netcoreapp3.1\ProcessPension.dll
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\obj\Debug\netcoreapp3.1\ProcessPension.pdb
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\obj\Debug\netcoreapp3.1\ProcessPension.genruntimeconfig.cache
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\JWT.dll
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\Microsoft.Owin.dll
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\Microsoft.Owin.Security.dll
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\Microsoft.Owin.Security.Jwt.dll
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\Microsoft.Owin.Security.OAuth.dll
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\Owin.dll
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\obj\Debug\netcoreapp3.1\ProcessPension.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\obj\Debug\netcoreapp3.1\ProcessPension.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HP\Downloads\ProcessPensionAuthentication-master (4)\ProcessPensionAuthentication-master\obj\Debug\netcoreapp3.1\ProcessPension.MvcApplicationPartsAssemblyInfo.cache
